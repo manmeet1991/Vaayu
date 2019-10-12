@@ -7,3 +7,4 @@
 5.This data ultimately reaches a central base station which transmits the data to the cloud.
 6.The data is then processed by a GIS, fed to a database and then served to a website or mobile app whenever requested.
 7.Further advancements include analytics using Machine Learning to analyse traffic patterns based on pollution levels in a city and predicting air quality on a given day.
+It's director is Pranav Mokshmar
